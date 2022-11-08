@@ -1,0 +1,23 @@
+---
+layout: page # This template inherits from my basic page template
+---
+<!-- We're going to give each page a tag when we create it.
+This will be the title -->
+<h1>{{ page.tag | capitalize }}</h1>
+
+<ul>
+    {% for post in site.tags[page.tag] %}
+    <li>
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h3>
+        <p>
+          {{ post.excerpt }}
+        </p>
+    </li>
+    {% endfor %}
+</ul>

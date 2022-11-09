@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-11-09T12:37:56+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Campos de Felpa</title><subtitle>Blog sobre miniaturas, ciencia ficción e historia.</subtitle><entry><title type="html">Selector de Misiones de Warhammer 40,000, 3a Edición</title><link href="http://localhost:4000/2022/11/09/selector-misiones-40k.html" rel="alternate" type="text/html" title="Selector de Misiones de Warhammer 40,000, 3a Edición" /><published>2022-11-09T00:00:00+01:00</published><updated>2022-11-09T00:00:00+01:00</updated><id>http://localhost:4000/2022/11/09/selector-misiones-40k</id><content type="html" xml:base="http://localhost:4000/2022/11/09/selector-misiones-40k.html"><![CDATA[<p>El reglamento de Warhammer 40K trae un montón de variadas misiones y escenarios para jugar, pero a veces es difícil decidir a qué jugar. He pensado un sencillo generador de misiones para ayudar a preparar las partidas</p>
+
+<p>Este sistema genera un escenario, seleccionando una misión aleatoria del reglamento, y genera dos fuerzas enfrentadas de entre 500 y 1000 puntos. Si prefieres partidas más grandes, multiplica los puntos generados x2 para crear ejércitos de entre 1000 y 2000 puntos. Para generar la misión, sencillamente, sigue estos pasos:</p>
+
+<ol>
+  <li>Genera la misión: Lanza 1D66 (usa 2D6, el primer D6 genera las decenas, y el segundo las unidades. Por ejemplo, un resultado de 4 y uno de 3 equivale a 43). Compara el resultado con la tabla de misiones que encontrarás en esta página</li>
+  <li>Genera el tamaño del escenario: Ambos jugadores tienen 1D6x100 + 400 puntos para crear sus ejércitos (ambos jugadores tienen la misma cantidad de puntos!).</li>
+</ol>
+
+<table>
+  <thead>
+    <tr>
+      <th>D66</th>
+      <th>Escenario</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1 a 6</td>
+      <td>Busqueda y Destrucción</td>
+    </tr>
+    <tr>
+      <td>7 a 12</td>
+      <td>Combate Nocturno</td>
+    </tr>
+    <tr>
+      <td>13 a 18</td>
+      <td>Patrulla</td>
+    </tr>
+    <tr>
+      <td>19 a 24</td>
+      <td>Reconocimiento</td>
+    </tr>
+    <tr>
+      <td>25 a 30</td>
+      <td>Rescate</td>
+    </tr>
+    <tr>
+      <td>31 a 34</td>
+      <td>Ocupar y Mantener</td>
+    </tr>
+    <tr>
+      <td>35 a 38</td>
+      <td>Exterminio</td>
+    </tr>
+    <tr>
+      <td>38 a 42</td>
+      <td>Asalto al Búnker</td>
+    </tr>
+    <tr>
+      <td>43 a 46</td>
+      <td>Sabotaje</td>
+    </tr>
+    <tr>
+      <td>47 a 50</td>
+      <td>Emboscada</td>
+    </tr>
+    <tr>
+      <td>51 a 54</td>
+      <td>Asalto a Fortificación</td>
+    </tr>
+    <tr>
+      <td>55 a 58</td>
+      <td>Contención</td>
+    </tr>
+    <tr>
+      <td>59 a 62</td>
+      <td>Romper el Cerco</td>
+    </tr>
+    <tr>
+      <td>63 a 66</td>
+      <td>Ataque Relámpago</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Para la información del escenario escogido, consulta el reglamento de Warhammer 40,000 (3a edición), páginas 128 a 135.</p>]]></content><author><name></name></author><category term="WH40K" /><summary type="html"><![CDATA[El reglamento de Warhammer 40K trae un montón de variadas misiones y escenarios para jugar, pero a veces es difícil decidir a qué jugar. He pensado un sencillo generador de misiones para ayudar a preparar las partidas]]></summary></entry><entry><title type="html">Construyendo un ejército Orko, parte I</title><link href="http://localhost:4000/2022/11/09/construyendo-ejercito-orko-1.html" rel="alternate" type="text/html" title="Construyendo un ejército Orko, parte I" /><published>2022-11-09T00:00:00+01:00</published><updated>2022-11-09T00:00:00+01:00</updated><id>http://localhost:4000/2022/11/09/construyendo-ejercito-orko-1</id><content type="html" xml:base="http://localhost:4000/2022/11/09/construyendo-ejercito-orko-1.html"><![CDATA[<p>A pesar de que llevo años (desde la adolescencia, de hecho) jugando a Warhammer 40K y coleccionando figuras de diferentes facciones (a lo largo del tiempo he llegado a tener Astartes, Cadianos, Orkos, Tau, Tiránidos y seguro que más), lo cierto es que jamás he “acabado” un ejército.</p>
+
+<p>Con acabar, me refiero a coleccionar una fuerza lo suficientemente grande como para tener una lista de un tamaño más o menos digno, completamente pintada y baseada. Bueno, pues quiero poner remedio a ello. Me he propuesto hacer dos o tres ejércitos “completos” usando las miniaturas que ya tengo, más lo que pueda conseguir barato por internet, con el objetivo de poder jugar a WH40K 3ª edición (mi favorita) con ejércitos completamente pintados, y también darle a Grimdark Future. Eventualmente, quiero tener como mínimo suficientes miniaturas pintadas para completar dos ejércitos de 1000 puntos, y si mi economía lo permite (ejem), expandirlas hasta 1500 puntos, que es el tamaño de un ejército clásico en las partidas de la época en White Dwarf.</p>
+
+<p style="text-align: center">
+    <img src="https://senoca.github.io/imgs/codex_orks_3e.png" width="60%" />
+    <br />
+    <span><i>El venerable Codex: Orkos, de 1998.</i></span>
+</p>
+
+<p>Por empezar por un lugar, he decidido comenzar por los Orkos. Mi meta inicial es tener suficientes pieles-verdes pintados para completar la siguiente lista:</p>
+
+<h2 id="patrulla-orka---499-puntos">Patrulla Orka - 499 puntos</h2>
+<p><strong>Cuartel General:</strong>
+<br />
+Kaudillo Orko - 87 puntos
+<br />
+<em>Con Garra de Combate, Akribillador Pezado</em></p>
+
+<p><strong>Tropas de Elite:</strong>
+<br />
+16 Veteranoz - 176 puntos
+<br />
+<em>Con Akribilladorez</em></p>
+
+<p><strong>Tropas de Línea:</strong>
+<br />
+16 Akribilladorez - 128 puntos</p>
+
+<p>14 Gretchins - 53 puntos
+<br />
+<em>Con Ezclavizta con Akribillador</em></p>
+
+<p><strong>Apoyo Pesado</strong>
+<br />
+1 Lata Azezina - 45 puntos</p>
+
+<p>Iré actualizando sobre mi progreso a medida que vaya pintando. Ah, y también me inventaré un transfondo para hacer mis orkos más interesantes…</p>]]></content><author><name></name></author><category term="WH40K" /><summary type="html"><![CDATA[A pesar de que llevo años (desde la adolescencia, de hecho) jugando a Warhammer 40K y coleccionando figuras de diferentes facciones (a lo largo del tiempo he llegado a tener Astartes, Cadianos, Orkos, Tau, Tiránidos y seguro que más), lo cierto es que jamás he “acabado” un ejército.]]></summary></entry><entry><title type="html">Introduciendo mi blog</title><link href="http://localhost:4000/2022/11/08/first-post.html" rel="alternate" type="text/html" title="Introduciendo mi blog" /><published>2022-11-08T00:00:00+01:00</published><updated>2022-11-08T00:00:00+01:00</updated><id>http://localhost:4000/2022/11/08/first-post</id><content type="html" xml:base="http://localhost:4000/2022/11/08/first-post.html"><![CDATA[<p>Hola! Hace tiempo que quería jubilar mi vieja página web y hacer una nueva que no pareciera diseñada en 1996, así que he tomado la iniciativa de crear este blog.</p>
+
+<p>Hago esto con dos intenciones: la primera y menos importante, practicar y aprender más sobre diseño de páginas web. La segunda y principal, tener un sitio web donde colgar todo tipo de frikadas que comparto con mis amigos, para no tener que andar enviando pdfs por WhatsApp. Estoy hablando de cosas como escenarios para juegos de miniaturas, campañas de roleo y cosas así.</p>
+
+<p>Además, últimamente me ha dado el venazo de ponerme en serio con mi proyecto pseudoretro de Warhammer 40.000 3ª edición, y se me ha ocurrido que sería una gran idea mantener un espacio en la red donde documentar mi progreso pintando miniaturas, y escribiendo transfondo (léase pájaritos en la cabeza) para mis ejércitos y campañas.</p>
+
+<p>Un saludo!</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Hola! Hace tiempo que quería jubilar mi vieja página web y hacer una nueva que no pareciera diseñada en 1996, así que he tomado la iniciativa de crear este blog.]]></summary></entry></feed>

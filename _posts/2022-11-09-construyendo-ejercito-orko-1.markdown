@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Construyendo un ejército Orko, parte I"
+title:  "Construyendo un ejército Orko"
 tags: WH40K
 ---
 

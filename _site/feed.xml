@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-11-09T12:49:29+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Campos de Felpa</title><subtitle>Blog sobre miniaturas, ciencia ficción e historia.</subtitle><entry><title type="html">Selector de Misiones de Warhammer 40,000, 3a Edición</title><link href="http://localhost:4000/2022/11/09/selector-misiones-40k.html" rel="alternate" type="text/html" title="Selector de Misiones de Warhammer 40,000, 3a Edición" /><published>2022-11-09T00:00:00+01:00</published><updated>2022-11-09T00:00:00+01:00</updated><id>http://localhost:4000/2022/11/09/selector-misiones-40k</id><content type="html" xml:base="http://localhost:4000/2022/11/09/selector-misiones-40k.html"><![CDATA[<p>El reglamento de Warhammer 40K trae un montón de variadas misiones y escenarios para jugar, pero a veces es difícil decidir a qué jugar. He pensado un sencillo generador de misiones para ayudar a preparar las partidas</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-11-09T13:51:08+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Campos de Felpa</title><subtitle>Blog sobre miniaturas, ciencia ficción e historia.</subtitle><entry><title type="html">Selector de Misiones de Warhammer 40,000, 3a Edición</title><link href="http://localhost:4000/2022/11/09/selector-misiones-40k-copy.html" rel="alternate" type="text/html" title="Selector de Misiones de Warhammer 40,000, 3a Edición" /><published>2022-11-09T00:00:00+01:00</published><updated>2022-11-09T00:00:00+01:00</updated><id>http://localhost:4000/2022/11/09/selector-misiones-40k%20copy</id><content type="html" xml:base="http://localhost:4000/2022/11/09/selector-misiones-40k-copy.html"><![CDATA[<p>El reglamento de Warhammer 40K trae un montón de variadas misiones y escenarios para jugar, pero a veces es difícil decidir a qué jugar. He pensado un sencillo generador de misiones para ayudar a preparar las partidas</p>
 
 <p>Este sistema genera un escenario, seleccionando una misión aleatoria del reglamento, y genera dos fuerzas enfrentadas de entre 500 y 1000 puntos. Si prefieres partidas más grandes, multiplica los puntos generados x2 para crear ejércitos de entre 1000 y 2000 puntos. Para generar la misión, sencillamente, sigue estos pasos:</p>
 
@@ -74,7 +74,36 @@
   </tbody>
 </table>
 
-<p>Para la información del escenario escogido, consulta el reglamento de Warhammer 40,000 (3a edición), páginas 128 a 135.</p>]]></content><author><name></name></author><category term="WH40K" /><summary type="html"><![CDATA[El reglamento de Warhammer 40K trae un montón de variadas misiones y escenarios para jugar, pero a veces es difícil decidir a qué jugar. He pensado un sencillo generador de misiones para ayudar a preparar las partidas]]></summary></entry><entry><title type="html">Construyendo un ejército Orko, parte I</title><link href="http://localhost:4000/2022/11/09/construyendo-ejercito-orko-1.html" rel="alternate" type="text/html" title="Construyendo un ejército Orko, parte I" /><published>2022-11-09T00:00:00+01:00</published><updated>2022-11-09T00:00:00+01:00</updated><id>http://localhost:4000/2022/11/09/construyendo-ejercito-orko-1</id><content type="html" xml:base="http://localhost:4000/2022/11/09/construyendo-ejercito-orko-1.html"><![CDATA[<p>A pesar de que llevo años (desde la adolescencia, de hecho) jugando a Warhammer 40K y coleccionando figuras de diferentes facciones (a lo largo del tiempo he llegado a tener Astartes, Cadianos, Orkos, Tau, Tiránidos y seguro que más), lo cierto es que jamás he “acabado” un ejército.</p>
+<p>Para la información del escenario escogido, consulta el reglamento de Warhammer 40,000 (3a edición), páginas 128 a 135.</p>]]></content><author><name></name></author><category term="WH40K" /><summary type="html"><![CDATA[El reglamento de Warhammer 40K trae un montón de variadas misiones y escenarios para jugar, pero a veces es difícil decidir a qué jugar. He pensado un sencillo generador de misiones para ayudar a preparar las partidas]]></summary></entry><entry><title type="html">Construyendo un ejército de Ángeles Oscuros</title><link href="http://localhost:4000/2022/11/09/contruyendo-ej%C3%A9rcito-marines.html" rel="alternate" type="text/html" title="Construyendo un ejército de Ángeles Oscuros" /><published>2022-11-09T00:00:00+01:00</published><updated>2022-11-09T00:00:00+01:00</updated><id>http://localhost:4000/2022/11/09/contruyendo-ej%C3%A9rcito-marines</id><content type="html" xml:base="http://localhost:4000/2022/11/09/contruyendo-ej%C3%A9rcito-marines.html"><![CDATA[<p>Todo buen ejército de miniaturas necesita un buen oponente, así que para acompañar a la naciente patrulla Orka, voy a preparar una pequeña fuerza de Marines Espaciales, siguiendo la misma idea de pintar suficientes miniaturas para una lista inicial de 500 puntos que pueda expandir en un futuro.</p>
+
+<p>En el caso de los Ángeles Oscuros esto debería ser más sencillo que en el de los Orkos, por que a) son menos miniaturas y b) ya tengo bastantes Marines Espaciales pintados de hace mil, con lo que solo sería cosa de pulirlos un poco y decorar las bases.</p>
+
+<p>La lista que voy a seguir es la siguiente, escogida del Codex: Ángeles Oscuros.</p>
+
+<h2 id="patrulla-de-los-ángeles-oscuros---500-puntos">Patrulla de los Ángeles Oscuros - 500 puntos</h2>
+<p><strong>Cuartel General:</strong>
+<br />
+Capellán-Interrogador - 94 puntos
+<br />
+<em>Con Pistola Bolter, Granadas de Fragmentación y Perforantes</em></p>
+
+<p><strong>Tropas de Línea:</strong>
+<br />
+5 Marines Espaciales - 81 puntos
+<br />
+<em>Con 1 Rifle de Plasma</em></p>
+
+<p>6 Marines Espaciales - 105 puntos
+<br />
+<em>Con 1 Cañón de Plasma</em></p>
+
+<p>6 Marines Espaciales - 100 puntos
+<br />
+<em>Con 1 Lanzamisiles</em></p>
+
+<p><strong>Ataque Rápido:</strong>
+<br />
+3 Motocicletas del Ala del Cuervo</p>]]></content><author><name></name></author><category term="WH40K" /><summary type="html"><![CDATA[Todo buen ejército de miniaturas necesita un buen oponente, así que para acompañar a la naciente patrulla Orka, voy a preparar una pequeña fuerza de Marines Espaciales, siguiendo la misma idea de pintar suficientes miniaturas para una lista inicial de 500 puntos que pueda expandir en un futuro.]]></summary></entry><entry><title type="html">Construyendo un ejército Orko</title><link href="http://localhost:4000/2022/11/09/construyendo-ejercito-orko-1.html" rel="alternate" type="text/html" title="Construyendo un ejército Orko" /><published>2022-11-09T00:00:00+01:00</published><updated>2022-11-09T00:00:00+01:00</updated><id>http://localhost:4000/2022/11/09/construyendo-ejercito-orko-1</id><content type="html" xml:base="http://localhost:4000/2022/11/09/construyendo-ejercito-orko-1.html"><![CDATA[<p>A pesar de que llevo años (desde la adolescencia, de hecho) jugando a Warhammer 40K y coleccionando figuras de diferentes facciones (a lo largo del tiempo he llegado a tener Astartes, Cadianos, Orkos, Tau, Tiránidos y seguro que más), lo cierto es que jamás he “acabado” un ejército.</p>
 
 <p>Con acabar, me refiero a coleccionar una fuerza lo suficientemente grande como para tener una lista de un tamaño más o menos digno, completamente pintada y baseada. Bueno, pues quiero poner remedio a ello. Me he propuesto hacer dos o tres ejércitos “completos” usando las miniaturas que ya tengo, más lo que pueda conseguir barato por internet, con el objetivo de poder jugar a WH40K 3ª edición (mi favorita) con ejércitos completamente pintados, y también darle a Grimdark Future. Eventualmente, quiero tener como mínimo suficientes miniaturas pintadas para completar dos ejércitos de 1000 puntos, y si mi economía lo permite (ejem), expandirlas hasta 1500 puntos, que es el tamaño de un ejército clásico en las partidas de la época en White Dwarf.</p>
 

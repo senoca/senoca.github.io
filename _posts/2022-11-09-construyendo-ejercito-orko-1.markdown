@@ -8,6 +8,8 @@ A pesar de que llevo años (desde la adolescencia, de hecho) jugando a Warhammer
 
 Con acabar, me refiero a coleccionar una fuerza lo suficientemente grande como para tener una lista de un tamaño más o menos digno, completamente pintada y baseada. Bueno, pues quiero poner remedio a ello. Me he propuesto hacer dos o tres ejércitos "completos" usando las miniaturas que ya tengo, más lo que pueda conseguir barato por internet, con el objetivo de poder jugar a WH40K 3ª edición (mi favorita) con ejércitos completamente pintados, y también darle a Grimdark Future. Eventualmente, quiero tener como mínimo suficientes miniaturas pintadas para completar dos ejércitos de 1000 puntos, y si mi economía lo permite (ejem), expandirlas hasta 1500 puntos, que es el tamaño de un ejército clásico en las partidas de la época en White Dwarf.
 
+<p style="text-align: center"><img src="{{ site.url }}/imgs/codex_orks_3ed.jpg" width="50%"/></p>
+
 Por empezar por un lugar, he decidido comenzar por los Orkos. Mi meta inicial es tener suficientes pieles-verdes pintados para completar la siguiente lista:
 
 

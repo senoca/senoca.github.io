@@ -35,6 +35,6 @@ Kaudillo Orko - 87 puntos
 
 **Apoyo Pesado**
 \
-1 Lata Azezina
+1 Lata Azezina - 45 puntos
 
 Iré actualizando sobre mi progreso a medida que vaya pintando. Ah, y también me inventaré un transfondo para hacer mis orkos más interesantes...

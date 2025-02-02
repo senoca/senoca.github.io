@@ -1,0 +1,95 @@
+/* Estilo PC */
+
+.banner img {
+    width: 100%;
+    max-width: 1200px;
+    height: auto;
+    margin: 0 auto;
+    display: block;
+}
+
+.topbar {
+    width: 100%;
+    max-width: 1200px;
+    height: auto;
+    margin: 0 auto;
+    display: block;
+    background-color: rgb(34, 20, 64);
+    text-align: center;
+}
+
+.topbar a:link, a:visited {
+    margin: 0;
+    padding: 2px;
+    border-style: solid;
+    border-color: rgb(13, 29, 59);
+    background-color: #313663;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    min-width: 23.9%;
+}
+
+.topbar a:hover {
+    background-color: rgb(107, 105, 205);
+}
+
+body {
+    margin: 0;
+    background-color: black;
+    color:darkgray;
+}
+
+main {
+    display: block;
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
+.protovengador {
+    max-width: 400px;
+    height: auto;
+}
+
+footer {
+    margin: 5px;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    
+}
+
+footer p {
+    text-align: center;
+}
+
+/* Estilo telf */
+@media (max-width: 1200px) {
+    .topbar {
+        text-align: center;
+    }
+
+    .topbar a:link, a:visited {
+        margin: 0;
+        padding: 2px;
+        border-style: solid;
+        border-color: rgb(13, 29, 59);
+        background-color: #313663;
+        color: white;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        min-width: 97%;
+    }
+
+    main {
+        margin: 20px;
+    }
+
+    
+}

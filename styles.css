@@ -92,5 +92,11 @@ footer p {
         margin: 20px;
     }
 
+    .pic {
+        max-width: 90%;
+        height: auto;
+        display: block;
+    }
+
     
 }

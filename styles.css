@@ -51,8 +51,9 @@ main {
 p {
     text-align: justify;
 }
-.protovengador {
+.pic {
     max-width: 400px;
+    width: 80%;
     height: auto;
 }
 

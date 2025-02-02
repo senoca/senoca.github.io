@@ -134,6 +134,8 @@ GEM
       google-protobuf (~> 4.27)
     sass-embedded (1.79.3-riscv64-linux-musl)
       google-protobuf (~> 4.27)
+    sass-embedded (1.79.3-x64-mingw-ucrt)
+      google-protobuf (~> 4.27)
     sass-embedded (1.79.3-x86-cygwin)
       google-protobuf (~> 4.27)
     sass-embedded (1.79.3-x86-linux-android)
@@ -179,6 +181,7 @@ PLATFORMS
   riscv64-linux-gnu
   riscv64-linux-musl
   ruby
+  x64-mingw-ucrt
   x86-cygwin
   x86-linux
   x86-linux-android

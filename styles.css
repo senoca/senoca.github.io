@@ -51,6 +51,7 @@ main {
 p {
     text-align: justify;
 }
+
 .pic {
     max-width: 400px;
     width: auto;
@@ -95,7 +96,6 @@ footer p {
     .pic {
         max-width: 50%;
         height: auto;
-        display: block;
     }
 
     

@@ -94,7 +94,7 @@ footer p {
     }
 
     .pic {
-        max-width: 1000px;
+        width: 50%;
         height: auto;
     }
 

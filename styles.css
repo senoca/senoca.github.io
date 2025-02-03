@@ -1,5 +1,13 @@
 /* Estilo PC */
 
+a {
+    text-decoration: none;
+}
+
+ul {
+    text-align: left;
+}
+
 .banner img {
     width: 100%;
     max-width: 1200px;

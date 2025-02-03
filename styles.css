@@ -1,5 +1,6 @@
 /* Estilo PC */
 
+
 .flexcontainer {
     display: flex;
     flex-wrap: wrap;
@@ -19,6 +20,7 @@
 
 a {
     text-decoration: none;
+    color: white;
 }
 
 ul {

@@ -1,5 +1,22 @@
 /* Estilo PC */
 
+.flexcontainer {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.sidebar {
+    flex: 30%;
+    border: 1px solid rgb(184, 184, 184);
+    background-color: rgb(58, 58, 58);
+    margin: 20px;
+}
+
+.mainbar {
+    flex: 60%;
+    margin: 20px;
+}
+
 a {
     text-decoration: none;
 }
@@ -106,5 +123,15 @@ footer p {
         height: auto;
     }
 
+    .mainbar {
+        flex: 100%;
+        margin: 0;
+    }
     
+    .sidebar {
+        flex: 100%;
+        border: 0;
+        margin: 0;
+        background-color: inherit;
+    }
 }

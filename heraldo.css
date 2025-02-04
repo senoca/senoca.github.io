@@ -1,0 +1,86 @@
+html {
+    background-color: black;
+}
+
+* {
+    margin: 0px;
+    font-family: "Old English Text MT";
+    
+}
+
+.sub {
+    font-style: italic;
+    font-size: large;
+    text-align: center;
+}
+
+.num {
+    text-align: right;
+    margin-top: 10px;
+    margin-right: 100px;
+}
+
+.separator {    
+    width: 90%;
+    margin: 0 auto;
+    display: block;
+}
+
+header {
+    width: 950px;
+    margin: 0 auto;
+    display: block;
+    padding: 25px;
+    background-image: url(./assets/aquila.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-blend-mode:soft-light;
+    text-align: center;
+}
+main {
+    width: 800px;
+    border: 1px solid black;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    margin: 0 auto;
+    display: block;
+}
+
+.flexcontainer {
+    flex-wrap: wrap;
+    display: flex;
+    flex-direction:row;
+}
+
+.flexcolumn {
+    flex-direction: column;
+    flex-wrap: wrap;
+    display: flex;
+    flex: 50%;
+}
+
+art {
+    text-align: justify;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+art img {
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+    display: block;
+    
+}
+
+art h3 {
+    text-transform: capitalize;
+    margin: 5px;
+}
+
+art p {
+    margin: 5px;
+    text-align: justify;
+    font-size: small;
+    font-family: "Lucida Blackletter";
+}

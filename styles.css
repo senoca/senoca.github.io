@@ -1,6 +1,19 @@
 /* Estilo PC */
 
+.ficcontainer {
+    display: flex;
+    flex-wrap: wrap;
+}
 
+.fic {
+    width: 30%;
+    margin: 10px;
+    padding: 10px;
+}
+
+.fic .pic {
+    width: 80%;
+}
 .flexcontainer {
     display: flex;
     flex-wrap: wrap;
@@ -140,5 +153,15 @@ footer p {
         border: 0;
         margin: 0;
         background-color: inherit;
+    }
+
+    .fic {
+        width: 100%;
+        margin: 0px;
+        text-align: center;
+    }
+
+    .fic .pic {
+        width: 80%;
     }
 }

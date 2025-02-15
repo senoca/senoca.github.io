@@ -88,6 +88,7 @@ art h3 {
 art p {
     margin: 5px;
     text-align: justify;
+    font-family: "Vollkorn", serif;
 }
 
 @media (max-width: 800px) {

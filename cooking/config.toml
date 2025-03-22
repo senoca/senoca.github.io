@@ -1,4 +1,6 @@
-baseURL = 'senoca.github.io/cooking/'
+baseURL = "/cooking/"
+relativeURLs = true
+uglyURLs = true
 languageCode = 'es-es'
 title = 'Receptari'
 theme = "diary"

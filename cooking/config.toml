@@ -2,3 +2,9 @@ baseURL = 'https://senoca.github.io/cooking/'
 languageCode = 'es-es'
 title = 'Recetario'
 theme = 'diary'
+
+[frontmatter]
+date = ["date", "publishDate", "lastmod"]
+
+[params]
+dateFormat = "2006-01-02"

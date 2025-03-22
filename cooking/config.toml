@@ -1,4 +1,4 @@
-baseURL = 'senoca.github.io/cooking'
-languageCode = 'en-us'
+baseURL = 'senoca.github.io/cooking/'
+languageCode = 'es-es'
 title = 'Receptari'
 theme = "diary"

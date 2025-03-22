@@ -1,4 +1,4 @@
-baseURL = "/recipes/"
+baseURL = "/cooking/"
 relativeURLs = true
 uglyURLs = true
 languageCode = 'es-es'

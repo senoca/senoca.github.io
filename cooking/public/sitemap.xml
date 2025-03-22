@@ -2,58 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/recipes/categories.html</loc>
+    <loc>/cooking/categories.html</loc>
     <lastmod>2019-11-14T11:25:05-04:00</lastmod>
   </url><url>
-    <loc>/recipes/tags/chinese.html</loc>
+    <loc>/cooking/tags/chinese.html</loc>
     <lastmod>2019-11-14T11:25:05-04:00</lastmod>
   </url><url>
-    <loc>/recipes/categories/chinese.html</loc>
+    <loc>/cooking/categories/chinese.html</loc>
     <lastmod>2019-11-14T11:25:05-04:00</lastmod>
   </url><url>
-    <loc>/recipes/posts.html</loc>
+    <loc>/cooking/posts.html</loc>
     <lastmod>2019-11-14T11:25:05-04:00</lastmod>
   </url><url>
-    <loc>/recipes/</loc>
+    <loc>/cooking/</loc>
     <lastmod>2019-11-14T11:25:05-04:00</lastmod>
   </url><url>
-    <loc>/recipes/tags.html</loc>
+    <loc>/cooking/tags.html</loc>
     <lastmod>2019-11-14T11:25:05-04:00</lastmod>
   </url><url>
-    <loc>/recipes/tags/text.html</loc>
+    <loc>/cooking/tags/text.html</loc>
     <lastmod>2019-11-14T11:25:05-04:00</lastmod>
   </url><url>
-    <loc>/recipes/posts/chinese.html</loc>
+    <loc>/cooking/posts/chinese.html</loc>
     <lastmod>2019-11-14T11:25:05-04:00</lastmod>
   </url><url>
-    <loc>/recipes/tags/typography.html</loc>
+    <loc>/cooking/tags/typography.html</loc>
     <lastmod>2018-03-18T12:13:38+05:30</lastmod>
   </url><url>
-    <loc>/recipes/posts/post-5.html</loc>
+    <loc>/cooking/posts/post-5.html</loc>
     <lastmod>2018-03-18T12:13:38+05:30</lastmod>
   </url><url>
-    <loc>/recipes/posts/post-1.html</loc>
+    <loc>/cooking/posts/post-1.html</loc>
     <lastmod>2018-03-18T02:01:58+05:30</lastmod>
   </url><url>
-    <loc>/recipes/tags/primer.html</loc>
+    <loc>/cooking/tags/primer.html</loc>
     <lastmod>2018-03-18T02:01:58+05:30</lastmod>
   </url><url>
-    <loc>/recipes/tags/todo.html</loc>
+    <loc>/cooking/tags/todo.html</loc>
     <lastmod>2018-03-18T02:01:58+05:30</lastmod>
   </url><url>
-    <loc>/recipes/categories/todo.html</loc>
+    <loc>/cooking/categories/todo.html</loc>
     <lastmod>2018-03-18T02:01:58+05:30</lastmod>
   </url><url>
-    <loc>/recipes/posts/chapter-6.html</loc>
+    <loc>/cooking/posts/chapter-6.html</loc>
     <lastmod>2017-04-14T11:25:05-04:00</lastmod>
   </url><url>
-    <loc>/recipes/categories/story.html</loc>
+    <loc>/cooking/categories/story.html</loc>
     <lastmod>2017-04-14T11:25:05-04:00</lastmod>
   </url><url>
-    <loc>/recipes/posts/chapter-1.html</loc>
+    <loc>/cooking/posts/chapter-1.html</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
   </url><url>
-    <loc>/recipes/tags/scene.html</loc>
+    <loc>/cooking/tags/scene.html</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
   </url>
 </urlset>

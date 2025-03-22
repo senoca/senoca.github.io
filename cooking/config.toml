@@ -2,5 +2,5 @@ baseURL = "/recipes/"
 relativeURLs = true
 uglyURLs = true
 languageCode = 'es-es'
-title = 'Receptari'
+title = 'Recetario'
 theme = 'diary'

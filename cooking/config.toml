@@ -1,0 +1,6 @@
+baseURL = "/recipes/"
+relativeURLs = true
+uglyURLs = true
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'diary'

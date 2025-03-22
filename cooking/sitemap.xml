@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://senoca.github.io/cooking/categories/</loc>
-    <lastmod>2025-03-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://senoca.github.io/cooking/tags/comentario/</loc>
-    <lastmod>2025-03-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://senoca.github.io/cooking/categories/pensamientos/</loc>
-    <lastmod>2025-03-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://senoca.github.io/cooking/posts/</loc>
     <lastmod>2025-03-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -20,7 +11,8 @@
     <loc>https://senoca.github.io/cooking/</loc>
     <lastmod>2025-03-22T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://senoca.github.io/cooking/categories/</loc>
+  </url><url>
     <loc>https://senoca.github.io/cooking/tags/</loc>
-    <lastmod>2025-03-22T00:00:00+00:00</lastmod>
   </url>
 </urlset>

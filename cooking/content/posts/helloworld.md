@@ -1,10 +1,8 @@
 ---
 title: "Presentación"
 date: 2025-03-22
-description: "You have a to-do list that scrolls on for days. You are managing multiple projects, getting lots of email and messages on different messaging systems, managing finances and personal health habits and so much more."
-tags: [comentario]
-featured_image: "/images/cooking.jpg"
-categories: Pensamientos
+description: "He decidido comenzar a prestar más atención a lo que como. Como parte de este esfuerzo, he decidido empezar un blog con recetas de cocina. Mi idea es escribir recetas sencillas, con el contenido calórico por persona ya medido de antemano. De esta manera podré ir siguiendo mis recetas sin tener que contar calorías cada vez que como."
+featured_image: "https://senoca.github.io/cooking/images/cooking.jpg"
 comment : false
 ---
 

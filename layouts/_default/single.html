@@ -1,0 +1,13 @@
+{{ define "main" }}
+
+<h1 style="margin-bottom: 0;">{{ .Title }}</h1>
+<i><h4 style="margin-top: 0px; margin-bottom: 0px;">{{ .Date.Format "2 de Febrero de 2006" }} &ndash; Tags: 
+    {{ $tags := .Params.tags }}
+            {{ range $index, $tag := $tags }}
+                <a href="/tags/{{ $tag | urlize }}">{{ $tag }}</a>
+                {{- if ne $index (sub (len $tags) 1) }}, {{ end }}
+            {{ end }}
+</h4></i>
+{{ .Content }}
+
+{{ end }}

@@ -1,0 +1,28 @@
+{{ define "main" }}
+
+<div>
+  <h3 class="font-125">{{ .Site.Params.homeText | markdownify }}</h3>
+</div>
+<h1>Últimas actualizaciones:</h1>
+{{ range first 10 .Site.Pages }}
+{{ if .IsPage }}
+<article>
+  <h2 style="margin-bottom: 0px;">
+      <a class="font-125" href="{{ .RelPermalink }}">{{ .Title }}</a>
+  </h2>
+  <i>
+      <h4 style="margin-top: 0px; margin-bottom: 0px;">{{ .Date.Format "2 de Febrero de 2006" }} &ndash; Tags: 
+          {{ $tags := .Params.tags }}
+                  {{ range $index, $tag := $tags }}
+                      <a href="/tags/{{ $tag | urlize }}">{{ $tag }}</a>
+                      {{- if ne $index (sub (len $tags) 1) }}, {{ end }}
+                  {{ end }}
+      </h4>
+  </i>
+
+  <p>{{ .Summary }}</p>
+</article>
+{{ end }}
+{{ end }}
+
+{{ end }}

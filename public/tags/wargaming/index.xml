@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wargaming on Cibercueva</title>
+    <link>http://localhost:1313/tags/wargaming/</link>
+    <description>Recent content in Wargaming on Cibercueva</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Apr 2025 10:34:50 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/wargaming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guerras de la Antiguedad</title>
+      <link>http://localhost:1313/wargaming/guerras-antiguedad/</link>
+      <pubDate>Tue, 01 Apr 2025 10:34:50 +0200</pubDate>
+      <guid>http://localhost:1313/wargaming/guerras-antiguedad/</guid>
+      <description>&lt;p&gt;Esta sección de mi web está dedicada a los wargames de miniaturas ambientados en la antiguedad clásica. Mi período de mayor interés es período helenístico (323 a 31 a. C.), que incluye los conflictos entre los Diádocos (sucesores) por el imperio de Alejandro Magno, la formación de los Reinos Helenísticos en el este, la migración de los celtas al mundo grecolatino, el auge de Cartago y la República Romana, las Guerras Púnicas, la conquista romana de Grecia, y las guerras civiles que destruyeron la República. Es un tiempo con muchos conflictos y naciones coloridas y variadas, con lo que es perfecto para wargaming.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

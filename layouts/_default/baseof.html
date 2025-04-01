@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+  {{ partial "head.html" . }}
+  <body>
+    <header class="banner">
+        <a href="http://localhost:1313/"><img src="https://senoca.github.io/assets/banner300.jpg" alt="banner"/></a>
+    </header>
+    {{ partial "nav.html" . }}
+
+
+    
+      <main id="main">
+        <div style="margin: 20px;">
+            {{ block "main" . }}{{ end }}
+        </div>
+      </main>
+    
+  </body>
+</html>

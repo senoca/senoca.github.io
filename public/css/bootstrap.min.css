@@ -1,0 +1,94 @@
+main {
+    display: block;
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: justify;
+}
+
+.banner img {
+    width: 100%;
+    max-width: 1200px;
+    height: auto;
+    margin: 0 auto;
+    display: block;
+}
+
+body {
+    margin: 0;
+    background-color: black;
+    color:rgb(255, 255, 255);
+    font-family: 'Lora', sans-serif;
+}
+
+.topbar {
+    width: 100%;
+    max-width: 1200px;
+    height: auto;
+    margin: 0 auto;
+    display: block;
+    background-color: rgb(34, 20, 64);
+    text-align: center;
+}
+
+.topbar a:link, a:visited {
+    margin: 0;
+    padding: 2px;
+    border-style: solid;
+    border-color: rgb(13, 29, 59);
+    background-color: #313663;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    min-width: 23%;
+}
+
+.topbar a:hover {
+    background-color: rgb(107, 105, 205);
+}
+
+a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(196, 196, 196);
+    text-decoration: none;
+}
+
+img {
+    max-width: 400px;
+    width: auto;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+
+/* Estilo telf */
+@media (max-width: 1200px) {
+    .topbar {
+        text-align: center;
+    }
+
+    .topbar a:link, a:visited {
+        margin: 0;
+        padding: 2px;
+        border-style: solid;
+        border-color: rgb(13, 29, 59);
+        background-color: #313663;
+        color: white;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        min-width: 97%;
+    }
+
+    img {
+        width: 80%;
+        height: auto;
+        display: block;
+        margin: auto;
+    }
+
+}

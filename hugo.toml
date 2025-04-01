@@ -1,9 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://senoca.github.io/'
 languageCode = 'en-us'
 title = 'Cibercueva'
-
-[permalinks]
-  blog = "/:filename/"
 
 [params]
   homeText = "Bienvenido a mi página web personal! Aquí pongo artículos sobre mis hobbies, fotos de mis miniaturas, historietas que escribo, o cualquier otra cosa que se me ocurra! Espero que encuentres algo que te parezca interesante..."

@@ -63,6 +63,7 @@ img {
     height: auto;
     display: block;
     margin: auto;
+    padding: 10px;
 }
 
 /* Estilo telf */
@@ -89,6 +90,7 @@ img {
         height: auto;
         display: block;
         margin: auto;
+        padding: 10px;
     }
 
 }

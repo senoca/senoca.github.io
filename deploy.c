@@ -11,6 +11,11 @@ int main(int argc, char *argv[])
         printf("The blog was not updated\n");
         return 1;
     }
+    snprintf(buf, sizeof(buf), "rm -rf ./docs/*");
+    if (system(buf) == -1) {
+       printf("Error: Docs folder could not be emptied\n");
+    }
+
 
     snprintf(buf, sizeof(buf), "hugo --minify -d docs");
     if (system(buf) == -1) {
@@ -33,6 +38,6 @@ int main(int argc, char *argv[])
        printf("Error: Git could not push\n");
     }
 
-    printf("Blog updated");
+    printf("Blog updated\n");
    return 0;
 }

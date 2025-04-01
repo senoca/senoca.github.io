@@ -1,0 +1,27 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Cibercueva'
+
+[permalinks]
+  blog = "/:filename/"
+
+[params]
+  homeText = "Bienvenido a mi página web personal! Aquí pongo artículos sobre mis hobbies, fotos de mis miniaturas, historietas que escribo, o cualquier otra cosa que se me ocurra! Espero que encuentres algo que te parezca interesante..."
+
+[menu]
+  [[menu.main]]
+    name = "Wargaming"
+    url = "/wargaming/"
+    weight = 1
+  [[menu.main]]
+    name = "Heraldo del Cruzado"
+    url = "/heraldo/"
+    weight = 2
+  [[menu.main]]
+    name = "Fics"
+    url = "/fics/"
+    weight = 3
+   [[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 4

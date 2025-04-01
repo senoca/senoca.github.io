@@ -3,6 +3,9 @@
 <div>
   <h3 class="font-125">{{ .Site.Params.homeText | markdownify }}</h3>
 </div>
+
+<img href="./imgs/protovegador.jpg" alt="protovegador"/>
+
 <h1>Últimas actualizaciones:</h1>
 {{ range first 10 .Site.Pages }}
 {{ if .IsPage }}

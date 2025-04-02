@@ -5,6 +5,12 @@ main {
     text-align: justify;
 }
 
+em {
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+
 .container {
 	display: flex;
 	flex-wrap: wrap;
@@ -13,7 +19,7 @@ main {
 }
 
 .content {
-	 flex: 4;
+	 flex: 3;
 }
 
 .sidebar {
@@ -34,30 +40,28 @@ body {
 }
 
 .topbar {
-    width: 100%;
     max-width: 1200px;
+    width: 100%;
+    background-color: #313663;
     height: auto;
     margin: 0 auto;
-    display: block;
-    background-color: rgb(34, 20, 64);
+    display: flex;
     text-align: center;
 }
 
 .topbar a:link, a:visited {
     margin: 0;
-    padding: 2px;
-    border-style: solid;
-    border-color: rgb(13, 29, 59);
+    padding: 10px;
     background-color: #313663;
-    color: rgb(255, 255, 255);
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    min-width: 23.9%;
+    width: 10%;
 }
 
 .topbar a:hover {
     background-color: rgb(107, 105, 205);
+    color: rgb(255, 255, 255);
 }
 
 a {
@@ -87,22 +91,21 @@ img {
 }
 
 /* Estilo telf */
-@media (max-width: 768px) {
+@media (max-width: 1200px) {
     .topbar {
         text-align: center;
+        display: block;
     }
 
     .topbar a:link, a:visited {
         margin: 0;
         padding: 2px;
-        border-style: solid;
-        border-color: rgb(13, 29, 59);
         background-color: #313663;
         color: white;
         text-align: center;
         text-decoration: none;
         display: inline-block;
-        min-width: 97%;
+        min-width: 100%;
     }
 
     img {
@@ -119,5 +122,4 @@ img {
 	.sidebar {
 		display:none;
 	}
-
 }

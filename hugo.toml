@@ -1,6 +1,12 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
+baseURL = 'https://senoca.github.io/'
+languageCode = 'es-es'
 title = 'Cibercueva'
+defaultContentLanguage = "es"
+
+[languages]
+  [languages.es]
+    languageCode = "es"
+    languageName = "Español"
 
 [permalinks]
   blog = "/:filename/"

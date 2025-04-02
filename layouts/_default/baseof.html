@@ -10,11 +10,28 @@
 		<div class="container">
 			<div class="content">			
 				{{ block "main" . }}{{ end }}
+				<div style="display: flex; justify-content: space-between; padding:10px;">
+                  {{ with .PrevInSection }}
+                      <div style="text-align: left;">
+                          <a href="{{ .RelPermalink }}">← {{ .Title }}</a>
+                      </div>
+                  {{ else }}
+                    <div></div>
+                  {{ end }}
+                  {{ with .NextInSection }}
+                      <div style="text-align: right;">
+                          <a href="{{ .RelPermalink }}">{{ .Title }} →</a>
+                      </div>
+                  {{ else }}
+                    <div></div>
+                  {{ end }}
+              </div>
 			</div>
 			<div class="sidebar">
 				{{ partial "sidebar.html" . }}
 			</div>
 		</div>
       </main>
+
   </body>
 </html>

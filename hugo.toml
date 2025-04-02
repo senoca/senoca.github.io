@@ -17,12 +17,12 @@ title = 'Cibercueva'
     url = "/wargaming/"
     weight = 1
   [[menu.main]]
-    name = "Heraldo del Cruzado"
-    url = "/heraldo/"
+    name = "Recetas"
+    url = "/recetas/"
     weight = 2
   [[menu.main]]
-    name = "Fics"
-    url = "/fics/"
+    name = "Relatos"
+    url = "/relatos/"
     weight = 3
    [[menu.main]]
     name = "Blog"

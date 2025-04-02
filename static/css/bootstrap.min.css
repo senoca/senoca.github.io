@@ -5,7 +5,7 @@ main {
     text-align: justify;
 }
 
-em {
+img + em {
     display: block;
     margin: auto;
     text-align: center;
@@ -105,7 +105,7 @@ img {
         text-align: center;
         text-decoration: none;
         display: inline-block;
-        min-width: 100%;
+        min-width: 99%;
     }
 
     img {

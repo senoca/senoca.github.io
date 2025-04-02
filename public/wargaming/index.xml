@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wargaming on Cibercueva</title>
+    <link>http://localhost:1313/wargaming/</link>
+    <description>Recent content in Wargaming on Cibercueva</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Apr 2025 10:34:50 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/wargaming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guerras de la Antiguedad con WAB</title>
+      <link>http://localhost:1313/wargaming/guerras-antiguedad/</link>
+      <pubDate>Tue, 01 Apr 2025 10:34:50 +0200</pubDate>
+      <guid>http://localhost:1313/wargaming/guerras-antiguedad/</guid>
+      <description>&lt;p&gt;Esta sección de mi web está dedicada a los wargames de miniaturas ambientados en la antiguedad clásica. Mi período de mayor interés es período helenístico (323 a 31 a. C.), que incluye los conflictos entre los Diádocos (sucesores) por el imperio de Alejandro Magno, la formación de los Reinos Helenísticos en el este, la migración de los celtas al mundo grecolatino, el auge de Cartago y la República Romana, las Guerras Púnicas, la conquista romana de Grecia, y las guerras civiles que destruyeron la República. Es un tiempo con muchos conflictos y naciones coloridas y variadas, con lo que es perfecto para wargaming.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WH40K en Campaña</title>
+      <link>http://localhost:1313/wargaming/campana-40k/</link>
+      <pubDate>Sat, 15 Feb 2025 13:30:50 +0200</pubDate>
+      <guid>http://localhost:1313/wargaming/campana-40k/</guid>
+      <description>A continuación encontrarás unas breves reglas para poder jugar una campaña de dos o más jugadores, usando Warhammer 40,000 (3ª edición). Estas reglas son modificación de &amp;ldquo;40K in a Flash&amp;rdquo;, publicadas originalmente en la página americana de Games Workshop. Con esta campaña, los jugadores de disputarán el control de territorios y verán sus ejércitos expandirse y ganar experiencia a medida que luchen batallas.</description>
+    </item>
+    <item>
+      <title>Comandos de la Muerte</title>
+      <link>http://localhost:1313/wargaming/comandos-muerte/</link>
+      <pubDate>Wed, 05 Feb 2025 12:37:06 +0200</pubDate>
+      <guid>http://localhost:1313/wargaming/comandos-muerte/</guid>
+      <description>&lt;p&gt;Comandos de la Muerte es un parche a las reglas de Warhammer 40,000 (3ª edición) que permite jugar escaramuzas, golpes de mano y acciones heroicas de un pequeño grupo de héroes y villanos. En vez de jugar batallas con cientos de miniaturas organizadas en varias escuadras y vehículos, cada jugador tiene alrededor de una docena de guerreros, y cada miniatura opera como una unidad independiente. En todo caso, recuerda que esto no es un reglamento &amp;ldquo;cerrado&amp;rdquo; sino consejos y indicaciones para jugar escaramuzas en el cuadragésimo primer milenio. Si encuentras una situación que no he cubierto, o no te gusta cómo la he resuelto, siéntete libre de cambiar lo que quieras.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

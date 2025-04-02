@@ -3,11 +3,12 @@
 <div>
   <h3 class="font-125">{{ .Site.Params.homeText | markdownify }}</h3>
 </div>
-
-<div>
+<!-- 
+<figure>
   <img src="https://senoca.github.io/imgs/protovegador.jpg" alt="protovegador"/>
-</div>
-
+  <figcaption>"Protovengador" Eldar pintado por mí.</figcaption>
+</figure>
+-->
 <h1>Últimas actualizaciones:</h1>
 {{ range first 10 .Site.Pages }}
 {{ if .IsPage }}

@@ -5,15 +5,16 @@
     <header class="banner">
         <a href="https://senoca.github.io/"><img src="https://senoca.github.io/imgs/banner300.jpg" alt="banner"/></a>
     </header>
-    {{ partial "nav.html" . }}
-
-
-    
+    {{ partial "nav.html" . }}    
       <main id="main">
-        <div style="margin: 20px;">
-            {{ block "main" . }}{{ end }}
-        </div>
+		<div class="container">
+			<div class="content">			
+				{{ block "main" . }}{{ end }}
+			</div>
+			<div class="sidebar">
+				{{ partial "sidebar.html" . }}
+			</div>
+		</div>
       </main>
-    
   </body>
 </html>

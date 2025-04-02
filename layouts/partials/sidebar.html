@@ -1,0 +1,28 @@
+<div>
+	<nav>
+		<ul style="margin-top:25%;">
+			<li style="list-style-type:none; font-weight:bold; font-size:18px;">Tags</li>
+			<hr>
+			{{ range .Site.Taxonomies.tags }}
+			<li style="list-style-type:none;">
+				<a href="{{ .Page.RelPermalink }}">{{ .Page.Title }} ({{ .Count }})</a>
+			</li>
+			{{ end }}
+		</ul>
+	</nav>
+	
+	<nav>
+		<ul style="margin-top:25%;">
+			<li style="list-style-type:none; font-weight:bold; font-size:18px;">Últimas entradas</li>
+			<hr>
+			{{ range first 30 .Site.Pages }}
+			{{ if .IsPage }}
+			<li style="list-style-type:none;">
+				<a class="font-125" href="{{ .RelPermalink }}">{{ .Title }}</a>
+			</li>
+			{{ end }}
+			{{ end }}
+		</ul>
+	</nav>
+	
+</div>

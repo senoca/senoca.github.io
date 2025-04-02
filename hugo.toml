@@ -4,6 +4,9 @@ title = 'Cibercueva'
 
 [permalinks]
   blog = "/:filename/"
+  
+[taxonomies]
+  tag = "tags"
 
 [params]
   homeText = "Bienvenido a mi página web personal! Aquí pongo artículos sobre mis hobbies, fotos de mis miniaturas, historietas que escribo, o cualquier otra cosa que se me ocurra! Espero que encuentres algo que te parezca interesante..."

@@ -2,7 +2,7 @@
 date = '2025-04-02T18:07:09+02:00'
 draft = false
 title = 'A Jedi in the Night'
-tags = ['fanfic' 'star wars', 'oc']
+tags = ['fanfic', 'star wars', 'oc']
 +++
 
 In the middle of darkness, only the pale light of Askarre's two moons revealed the shadowy silhouettes crawling between rubble and snow. Quiet and slowly they climbed, chest on the ground, until they arrived on top of a small hill of debris and ruined walls. Then they stopped, and waited. One of them, CT-9860, took his binoculars and gaze at the terrain. There appeared to be no enemies in sight. Ironically, that made him even more anxious.

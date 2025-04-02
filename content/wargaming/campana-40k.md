@@ -3,7 +3,7 @@ date = '2025-02-15T13:30:50+02:00'
 draft = false
 title = 'WH40K en Campaña'
 summary = "A continuación encontrarás unas breves reglas para poder jugar una campaña de dos o más jugadores, usando Warhammer 40,000 (3ª edición). Estas reglas son modificación de \"40K in a Flash\", publicadas originalmente en la página americana de Games Workshop. Con esta campaña, los jugadores de disputarán el control de territorios y verán sus ejércitos expandirse y ganar experiencia a medida que luchen batallas."
-tags = ['40K']
+tags = ['40K', 'campaña', 'wargaming', 'reglas caseras']
 +++
 ### Versión actualizada 15/2/2025
 

@@ -2,7 +2,7 @@
 date = '2025-02-05T12:37:06+02:00'
 draft = false
 title = 'Comandos de la Muerte'
-tags = ['40K']
+tags = ['40K', 'wargaming', 'reglas caseras']
 +++
 
  Comandos de la Muerte es un parche a las reglas de Warhammer 40,000 (3ª edición) que permite jugar escaramuzas, golpes de mano y acciones heroicas de un pequeño grupo de héroes y villanos. En vez de jugar batallas con cientos de miniaturas organizadas en varias escuadras y vehículos, cada jugador tiene alrededor de una docena de guerreros, y cada miniatura opera como una unidad independiente. En todo caso, recuerda que esto no es un reglamento "cerrado" sino consejos y indicaciones para jugar escaramuzas en el cuadragésimo primer milenio. Si encuentras una situación que no he cubierto, o no te gusta cómo la he resuelto, siéntete libre de cambiar lo que quieras.

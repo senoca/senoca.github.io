@@ -2,7 +2,7 @@
 date = '2025-04-01T10:34:50+02:00'
 draft = false
 title = 'Guerras de la Antiguedad con WAB'
-tags = ['antiguedad', 'WAB']
+tags = ['antiguedad', 'WAB', 'wargaming', 'histórico']
 +++
 
 

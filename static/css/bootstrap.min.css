@@ -39,6 +39,11 @@ body {
     font-family: 'Lora', sans-serif;
 }
 
+.thumbnail {
+    width: 200px;
+    height: 200px;
+}
+
 .topbar {
     max-width: 1200px;
     width: 100%;
@@ -122,4 +127,8 @@ img {
 	.sidebar {
 		display:none;
 	}
+
+	.thumbnail {
+        display:none;
+    }
 }

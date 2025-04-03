@@ -3,6 +3,7 @@ date = '2025-04-03T18:25:17+02:00'
 draft = false
 title = 'Espaguetis con atún y verduras'
 tags = ['recetas', 'pasta', 'atún', 'calabacín', 'zanahoria', 'cebolla', 'tomate']
+featured_image = ['https://senoca.github.io/thumbs/espaguetis.jpg']
 +++
 
 Este plato de pasta tiene varias verduras y atún, para aportar una comida equilibrada. Tiene un contenido calórico aproximado de 1142 kcal.

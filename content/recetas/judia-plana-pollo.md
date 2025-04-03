@@ -3,6 +3,7 @@ date = '2025-04-03T18:25:17+02:00'
 draft = false
 title = 'Judías planas con pollo a la plancha'
 tags = ['recetas', 'pollo', 'judías', 'patatas', 'tomate']
+featured_image = ['https://senoca.github.io/thumbs/espaguetis.jpg']
 +++
 
 Este plato de de verdura con pollo tiene un contenido calórico de 1199 kcal.

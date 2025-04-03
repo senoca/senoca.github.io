@@ -11,7 +11,7 @@
                 <a class="font-125" href="{{ .RelPermalink }}">{{ .Title }}</a>
             </h2>
             <i>
-                <h4 style="margin-top: 0px; margin-bottom: 0px;">{{ .Date.Format "2 de Febrero de 2006" }} &ndash; Tags: 
+                <h4 style="margin-top: 0px; margin-bottom: 0px;">{{ .Date | time.Format ":date_full" }} &ndash; Tags:
                     {{ $tags := .Params.tags }}
                             {{ range $index, $tag := $tags }}
                                 <a href="/tags/{{ $tag | urlize }}">{{ $tag }}</a>
@@ -20,7 +20,7 @@
                 </h4>
             </i>
         
-            <p>{{ .Summary }}</p>
+            <p>{{ .Summary }} <a class="font-125" href="{{ .RelPermalink }}">[...]</a></p>
         </article>
     {{ else }}
         <p>No se encontraron artículos con este tag.</p>

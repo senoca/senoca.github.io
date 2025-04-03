@@ -22,10 +22,10 @@ defaultContentLanguage = "es"
     name = "Wargaming"
     url = "/wargaming/"
     weight = 1
-#  [[menu.main]]
-#    name = "Recetas"
-#    url = "/recetas/"
-#    weight = 2
+  [[menu.main]]
+    name = "Recetas"
+    url = "/recetas/"
+    weight = 2
   [[menu.main]]
     name = "Relatos"
     url = "/relatos/"

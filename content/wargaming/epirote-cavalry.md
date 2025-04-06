@@ -6,9 +6,7 @@ tags = ['WAB', 'antiguedad', 'wargaming', '28mm', 'ejército pírrico']
 featured_image = []
 +++
 
-En mi empeño de completar mi ejército pírrico en 28mm. Tengo miniaturas suficientes para montar un ejército de 2000 puntos en WAB, en varios estados de pintado.
-
-Este finde he estado pintando la caballería real o 'basilikon agema'. Estos jinetes eran aristócratas epirotas bajo el mando directo del rey. Para representar su importancia y riqueza, les he pintado las capas y túnicas de púrpura, el color imperial de la antiguedad. De hecho, me he inspirado en una pieza de arte de Osprey.
+En mi empeño de completar mi ejército pírrico en 28mm, este finde he estado pintando la caballería real o 'basilikon agema'. Estos jinetes eran aristócratas epirotas bajo el mando directo del rey. Para representar su importancia y riqueza, les he pintado las capas y túnicas de púrpura, el color imperial de la antiguedad. De hecho, me he inspirado en una pieza de arte de Osprey.
 
 ![Caballería real](https://senoca.github.io/imgs/epirote_cav2.jpeg "arte")
 *Ilustración de Peter Dennis, en 'The Army of Pyrrhus of Epirus' por Nicholas Sekunda*

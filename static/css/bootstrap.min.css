@@ -5,7 +5,7 @@ main {
     text-align: justify;
 }
 
-em {
+img + em {
     display: block;
     margin: auto;
     text-align: center;

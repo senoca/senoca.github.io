@@ -17,7 +17,7 @@ Los fideus a la cassola son un plato típico catalán de pasta, muy rico. La cla
 * Caldo de pollo
 * 2 dientes de ajo
 * 1 cucharada sopera de aceite de oliva (132 kcal)
-* 300 g de salchichas de cerdo (594 kcal). Si lo prefieres, puedes substituir esto por pollo, ternera o cerdo. Si es una pieza de carne con algo de grasa, le dará más sabor al plato.
+* 300 g de salchichas de cerdo (594 kcal). Si lo prefieres, puedes substituir esto por pollo, ternera o cerdo. Si es una pieza de carne con algo de grasa, le dará más sabor al plato. Una alternativa a la carne roja son 280 g de pollo troceado (590 kcal).
 * 1 cucharada de pimentón dulce
 
 ## Preparación

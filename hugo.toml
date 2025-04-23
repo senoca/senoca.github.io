@@ -34,3 +34,7 @@ defaultContentLanguage = "es"
     name = "Blog"
     url = "/blog/"
     weight = 4
+	[[menu.main]]
+    name = "Plan"
+    url = "/weekly/"
+    weight = 5

@@ -2,7 +2,7 @@
 date = '2025-04-23T11:10:06+02:00'
 draft = false
 title = 'Fideus a la cassola'
-tags = ['fideos', 'pasta', 'receta', 'salchichas']
+tags = ['fideos', 'pasta', 'receta', 'salchichas', 'tomate', 'cebolla', 'pimiento']
 featured_image = []
 +++
 

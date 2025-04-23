@@ -2,7 +2,7 @@
 date = '2025-04-23T12:24:19+02:00'
 draft = false
 title = 'Garbanzos con chorizo'
-tags = ['garbanzos' 'chorizo', 'cebolla', 'pimiento rojo', 'patatas']
+tags = ['garbanzos', 'chorizo', 'cebolla', 'pimiento rojo', 'patatas']
 featured_image = []
 +++
 
